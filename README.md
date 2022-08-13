@@ -1,4 +1,4 @@
-# Kendi Sitem -
+# Kendi Sitem 
 
 Html ve Css öğrenimimin başlarında yaptığım ufak site
 
